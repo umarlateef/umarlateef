@@ -4,10 +4,6 @@
 ![Git Stats](https://github-profile-trophy.vercel.app/?username=umarlateef)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarlateef&label=Profile%20views&color=0e75b6&style=flat" alt="umarlateef" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
