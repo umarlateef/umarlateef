@@ -1,8 +1,9 @@
 ## Hi 👋, I'm Umar Lateef
 ### Full-Stack
 
-![Git Stats](https://github-profile-trophy.vercel.app/?username=umarlateef)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarlateef&label=Profile%20views&color=0e75b6&style=flat" alt="umarlateef" /> </p>
+
+![Git Stats](https://github-profile-trophy.vercel.app/?username=umarlateef)
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
