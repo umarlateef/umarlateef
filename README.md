@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Umar Lateef
 ### Full-Stack
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarlateef" alt="umarlateef" /></a> </p>
+![Git Stats](https://github-profile-trophy.vercel.app/?username=umarlateef)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
